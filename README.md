@@ -19,6 +19,6 @@ Images:
 # Additional Information
 Note that this model shouldn't be used to make financial based decision and is not recommended to use real stock decisions 
 
-Animation of LSTM Model Learning over training period:
+Animation of LSTM Model Learning over training period (SPY):
 
 ![LSTM_Learning_1000](https://github.com/anguyen1359/Stock-Predictors-Traders/assets/125108200/63cf23d1-df35-41dc-bb47-ec323fdcde76)

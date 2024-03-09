@@ -2,6 +2,10 @@
 
 I've developed a LSTM model that analyzes historical data of any particular stock and provides a prediction of the next price value.
 
+## Table of Contents
+- [Folders](#folders)
+- [Additional Information](#additional-information)
+
 # Folders
 
 Model:

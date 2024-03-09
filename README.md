@@ -5,6 +5,7 @@ I've developed a LSTM model that analyzes historical data of any particular stoc
 ## Table of Contents
 - [Detailed Description](#detailed-description)
 - [Folders](#folders)
+- [Evaluation Data](#evaluation-data)
 - [Additional Information](#additional-information)
 
 ## Detailed Description
@@ -25,8 +26,11 @@ Images:
 - LSTM_SPY_Optimized.png: Image containing Model predictions during evaluation of SPY with optimized paramaters
 - Stock_Predictor_Performance: Image of Confusion Matrix of up and down trends compared of model and actual values
 
+## Evaluation Data
+All the evaluation was performed utilizing Matplotlib, and Scikit-Learn
+- RMSE: 9.7
 
-
+This model is better evaluated by viewing plots under Images in the Folders Tab: [Folders](#folders)
 
 ## Additional Information
 Note that this model shouldn't be used to make financial based decision and is not recommended to use real stock decisions 
